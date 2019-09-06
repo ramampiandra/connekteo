@@ -1,2 +1,3 @@
-# madagascar-iot
-IoT Architecture/Implementation : Madagascar use case
+# Research and Development on IoT infrastruture and implementation for Madagascar
+
+
