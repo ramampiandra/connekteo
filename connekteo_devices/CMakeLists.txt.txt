@@ -1,0 +1,12 @@
+# CMakeLists files in this project can
+cmake_minimum_required (VERSION 2.8.11)
+project (connekteo_server)
+
+# Configure Source & Binary Directories ---------------------------------------
+# specify the C++ standard
+set(CMAKE_CXX_STANDARD 11)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+
+add_subdirectory (src)
+add_subdirectory (binary)
+add_subdirectory (library)
